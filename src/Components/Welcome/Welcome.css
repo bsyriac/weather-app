@@ -1,0 +1,28 @@
+.body {
+    background-color: #000000;
+    margin: auto;
+    padding: 20px;
+    border: 20px;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+.heading{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New';
+}
+
+.description{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 15px;
+    font-family:'Courier New'; 
+}
