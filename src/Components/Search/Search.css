@@ -3,3 +3,24 @@
     justify-content: center;
     align-items: center;
 }
+
+.search-span {
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    height: 60px;
+    width: 500px;
+    border-radius: 25px;
+    
+}
+
+.seperation{
+    padding: 10px;
+}
+.weather-card {
+    display: flex;
+    padding: 10%;
+    justify-content: center;
+    align-items: center;
+}

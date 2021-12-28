@@ -4,11 +4,10 @@ import './Welcome.css'
 
 const Welcome = () => {
     return (
-        <div className="body">
+        <div className="body-weather">
             <img src={logo} alt="Logo" className="logo" />
             <h1 className='heading'>Weather</h1>
-            <p className='description'>for the lolzzz</p>
-
+            <p className='description'>Made by Baptin</p>
         </div>
     );
 }
